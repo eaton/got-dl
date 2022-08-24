@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "crystal-spider.jsdoc-generator",
+    "samverschueren.linter-xo",
+    "mhutchie.git-graph"
+  ]
+}
